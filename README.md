@@ -16,6 +16,7 @@ Algorithms
 Insert:
   
   Step 1: Start
+  
   Step 2: Read filename, and detail of contact(like name, phone number, email-id, address, city, pincode)
   Step 3: Open the file (If file already exist, then append the details otherwise create the file)
   Step 4: Write all the data
